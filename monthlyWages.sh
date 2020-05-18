@@ -19,3 +19,4 @@ do
                 totalSalary=$(( $totalSalary+$salary));
 done
 
+echo "$totalSalary"
